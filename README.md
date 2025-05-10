@@ -21,8 +21,8 @@ A professional NestJS module for user registration with JWT authentication and P
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/nestjs-user-registration.git
-   cd nestjs-user-registration
+   git clone https://github.com/imran-khan-rehan/user-registration
+   cd user-registration
    ```
 
 2. Install dependencies
